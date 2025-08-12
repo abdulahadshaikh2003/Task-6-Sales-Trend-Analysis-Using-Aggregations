@@ -5,7 +5,7 @@ Analyze monthly revenue and order volume from the online sales dataset using SQL
 
 # Dataset
 Source: Kaggle - https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
-online_sales table with columns:
+online sales data table with columns:
 - Transaction ID
 - Date
 - Product Category
