@@ -64,16 +64,5 @@ SELECT
 FROM `online sales data`
 GROUP BY order_year, order_month
 ORDER BY total_orders DESC
-
-# Folder Structure
-Task-6-Sales-Trend/
-├── task6_sales_trend.sql
-├── screenshots/
-│   ├── q1_monthly_revenue_orders.png
-│   ├── q2_2023_monthly_revenue_orders.png
-│   ├── q3_top3_months_revenue.png
-│   └── q4_top3_months_orders.png
-└── README.md
-
 LIMIT 3;
 
