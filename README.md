@@ -19,7 +19,7 @@ online sales data table with columns:
 # Tools Used
 - MySQL (Workbench)
 
-# Sreenshots of output
+# Screenshots of output uploaded 
 
 # SQL Queries
 USE onlinesalesdata;
